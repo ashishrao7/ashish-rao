@@ -2,20 +2,19 @@
 title: Ashish
 subtitle: by HTML5 UP
 email: ashish.rao.m@gmail.com
-description: Welcome to the website of Ashish Rao
+description: Hi there! This site demonstrates my work and my interests. Feel free to get in touch with me if you feel like having a conversation. 
 baseurl: "/ashish-rao" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author: Ashish Rao
+author: Ashish Rao Mangalore
 street_address: 
 city: Bengaluru
 state: KA
-zip_code: 55555
 country: India
-phone: 
+phone: <i> Available on Request </i>
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 8
 
 # social settings
 500px_url:
