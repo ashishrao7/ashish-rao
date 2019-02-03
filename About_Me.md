@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: About Me
 nav-menu: true
 ---
 
