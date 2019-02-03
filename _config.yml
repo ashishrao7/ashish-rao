@@ -1,16 +1,16 @@
 # site settings
-title: Forty
+title: Ashish
 subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+email: ashish.rao.m@gmail.com
+description: Welcome to the website of Ashish Rao<br /> and released under the Creative Commons.
+baseurl: "/ashish-rao" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
+author: Ashish Rao
 street_address: 1234 Somewhere Road
-city: Nashville
+city: Bengaluru
 state: TN
 zip_code: 55555
-country: United States of America
+country: India
 phone: (716) 555-5555
 
 # homepage tiles
