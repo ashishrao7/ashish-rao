@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Posts on the Web
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: Cause writing is the shizz....
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
