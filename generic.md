@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Research Interests and Projects
+description: The way forward...
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
