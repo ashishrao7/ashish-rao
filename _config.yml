@@ -1,7 +1,7 @@
 # site settings
 title: Ashish Rao 
 subtitle: The Man, The Legend... 
-email: ashish.rao.m@gmail.com
+email: ashish.rao.m@gmail.com, ashishrao.mangalore@tum.de
 description: Hi there! This site demonstrates my work and my interests. Feel free to get in touch with me if you feel like having a conversation. 
 baseurl: "/ashish-rao" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
@@ -18,8 +18,8 @@ tiles-count: 8
 
 # social settings
 500px_url:
-facebook_url:
-github_url:
+facebook_url: https://www.facebook.com/ashish.rao.m
+github_url: https://github.com/ashishrao7
 gitlab_url: https://gitlab.com/rao_art
 googleplus_url: 
 instagram_url: 
