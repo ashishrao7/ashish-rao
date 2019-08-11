@@ -2,7 +2,7 @@
 layout: post
 title: Books I've Read/Intend to Read 
 description: Knowledge Maketh the Man
-image: assets/images/pic11.jpg
+image: assets/images/books.jpeg
 nav-menu: true
 ---
 
