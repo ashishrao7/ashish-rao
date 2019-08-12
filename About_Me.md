@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 		</header>
 
-<!-- Content -->
+<!-- Navigation Menu Buttons -->
 <ul class="actions fit">
 	<li><a href="#" class="button special fit" id='Education'    onclick="document.getElementById('AboutContentsDiv').innerHTML=document.getElementById('EducationDetailsMD').innerHTML;">Education & Work</a></li>
 	<li><a href="#" class="button special fit" id='Publications' onclick="document.getElementById('AboutContentsDiv').innerHTML=document.getElementById('PublicationDetailsMD').innerHTML;">Publications</a></li>
@@ -23,11 +23,7 @@ nav-menu: true
 	<li><a href="#" class="button special fit" id='Skills'       onclick="document.getElementById('AboutContentsDiv').innerHTML=document.getElementById('SkillsDetailsMD').innerHTML;">Skills</a></li>
 </ul>
 
-<div id="AboutContentsDiv" onload="document.getElementById('EducationDetailsMD').innerHTML">la</div>
-
-<center><a href="assets/files/Ashish_TUM_CV.pdf" class="button icon fa-download">Download CV</a></center>
-</div>
-
+<!-- Content for Each Button -->
 <div id='EducationDetailsMD' style="visibility:hidden;">
     <b>ARTICLE 1</b> This is information about my education
 </div>
@@ -43,3 +39,14 @@ nav-menu: true
 <div id='SkillsDetailsMD' style="visibility:hidden;">
     <b>ARTICLE 4</b> This is information about my skills
 </div>
+
+<!-- Reduce div size to clear blank spaces>
+
+<!-- Display Div-->
+<div id="AboutContentsDiv"></div>
+<script>document.getElementById('AboutContentsDiv').innerHTML=document.getElementById('EducationDetailsMD').innerHTML;</script>
+
+<center><a href="assets/files/Ashish_TUM_CV.pdf" class="button icon fa-download">Download CV</a></center>
+</div>
+
+
