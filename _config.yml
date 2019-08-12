@@ -14,7 +14,7 @@ phone: <i> Available on Request </i>
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 8
+tiles-count: 7
 
 # social settings
 500px_url:

@@ -30,18 +30,19 @@
 
 // Palette.
 	$palette: (
-		bg:					#242943,
-		bg-alt:				#2a2f4a,
-		fg:					#ffffff,
-		fg-bold:			#ffffff,
-		fg-light:			rgba(244,244,255,0.2),
+		bg:					#ffffff,
+		bg-alt:				#ffffff,
+		fg:					#000000,
+		fg-bold:			#000000,
+		fg-light:			rgba(37, 37, 39, 0.835),
 		border:				rgba(212,212,255,0.1),
-		border-bg:			rgba(212,212,255,0.035),
-		highlight:			#9bf1ff,
-		accent1:			#6fc3df,
-		accent2:			#8d82c4,
-		accent3:			#ec8d81,
-		accent4:			#e7b788,
-		accent5:			#8ea9e8,
-		accent6:			#87c5a4
+		border-bg:			rgba(212, 212, 255, 0.431),
+		highlight:			#1e37a5,
+		main_tile:    #ffffff00   
+		accent1:			#ffffff,
+		accent2:			#a09b9b,
+		accent3:			#a09b9b,
+		accent4:			#ffffff,
+		accent5:			#ffffff,
+		accent6:			#a09b9b
 	);
