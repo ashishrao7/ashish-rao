@@ -150,24 +150,25 @@ nav-menu: true
 
 <div id="Languages">
 <header class="major">
-<h1>Languages I Speak</h1>
+<h1>Languages I Know...</h1>
 </header>
 	<table style="width:100%">
 		<tr>
-			<td style="text-align:center"><h2>Fluent</h2></td>
-			<td style="vertical-align:middle"><h1><b>English</b></h1><br></td>
-			<td style="vertical-align:middle"><h1><b>English</b></h1><br></td> 
-			<td style="vertical-align:middle"><h1><b>English</b></h1><br></td>  
+			<td style="text-align:center"><h2><font color="Red">Fluent</font></h2></td>
+			<td style="text-align:center;vertical-align:middle"><h1><b>English</b></h1><br></td>
+			<td style="text-align:center;vertical-align:middle"><img src="assets/images/about_me/languages/hindi.svg.png" alt=""  style="width:100px;height:55px;"></td>
+			<td style="text-align:center;vertical-align:middle"><img src="assets/images/about_me/languages/kannada.png" alt=""  style="width:100px;height:50px;"></td>  
 		</tr>
 		<tr>
-			<td style="text-align:center"><h2>Intermediate</h2></td>
-			<td style="vertical-align:middle"><h1><b>English</b></h1><br></td> 
+			<td style="text-align:center"><h2><font color="Red">Intermediate</font></h2>></td>
+			<td style="text-align:center;vertical-align:middle"><img src="assets/images/about_me/languages/sanskrit.png" alt=""  style="width:150px;height:57px;"></td> 
 		</tr>
 		<tr>
-			<td style="text-align:center"><h2>Basic</h2></td>
-			<td style="vertical-align:middle"><h1><b>English</b></h1><br></td> 
-			<td style="vertical-align:middle"><h1><b>English</b></h1><br></td> 
-			<td style="vertical-align:middle"><h1><b>English</b></h1><br></td> 
+			<td style="text-align:center"><h2><font color="Red">Basic</font></h2></td>
+			<td style="text-align:center;vertical-align:middle"><h1><b>Deutsch</b></h1><br></td> 
+			<td style="text-align:center;vertical-align:middle"><img src="assets/images/about_me/languages/urdu.svg.png" alt=""  style="width:75px;height:75px;"></td>
+			<td style="text-align:center;vertical-align:middle"><img src="assets/images/about_me/languages/arabic.svg.png" alt=""  style="width:100px;height:44px;"><br>
+			(Reading and Writing)</td>
 		</tr>
 		</table>
 </div>
