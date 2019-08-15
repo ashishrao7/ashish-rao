@@ -1,8 +1,8 @@
 # site settings
 title: Ashish Rao 
 subtitle: The Man, The Legend... 
-email: ashish.rao.m@gmail.com, ashishrao.mangalore@tum.de
-description: Hi there! This site demonstrates my work and my interests. Feel free to get in touch with me if you feel like having a conversation. 
+email: ashishrao.mangalore@tum.de
+description: Hi there! Life is varying shades of gray. Fortunately (or Unfortunately), this site is in black and white. Feel free to get in touch with me if you feel like having a conversation. 
 baseurl: "/ashish-rao" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Ashish Rao Mangalore
