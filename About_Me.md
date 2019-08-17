@@ -146,7 +146,7 @@ nav-menu: true
 <div id="AboutContentsDiv"></div>
 <script>document.getElementById('AboutContentsDiv').innerHTML=document.getElementById('EducationDetailsMD').innerHTML;</script>
 
-<p><center><a href="assets/files/Ashish_TUM_CV.pdf" class="button icon fa-download">Download CV</a></center></p>
+<p><center><a href="assets/files/Ashish_TUM_CV.pdf" class="button icon fa-download" target="_blank">Download CV</a></center></p>
 
 <div id="Languages">
 <header class="major">
@@ -176,5 +176,5 @@ nav-menu: true
 </div>
 
 
-
+</section>
 
