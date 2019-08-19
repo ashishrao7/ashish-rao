@@ -31,7 +31,7 @@ nav-menu: true
 		<h3>Neuromorphic Sampling</h3>
 		</header>
 				<p><span class="image right"><img src="assets/images/research_interests/event_based_vision/davis346redcolor.png" style="width:200px;height:150px;" alt=""></span> Data from a neuromorphic vision sensor is sparse and non uniformly sampled. Under what conditions would perfect reconstruction be possible. This project aims to simulate a few toy experiments to answer that question. A bare bones event simulator is also available here.</p>
-				You can follow the project <a href="https://github.com/ashishrao7/POE3D" target="_blank">here</a><br><br>
+				You can follow the project <a href="https://github.com/ashishrao7/Neuromorphic-Sampling" target="_blank">here</a><br><br>
 		<header class="major">
 		<h3>Motion Contrast 3D</h3>
 		</header>
