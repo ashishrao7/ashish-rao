@@ -33,18 +33,28 @@ nav-menu: true
 				<p><span class="image right"><img src="assets/images/research_interests/event_based_vision/final_frame_delta_mod.png" alt=""></span> Data from a neuromorphic vision sensor is sparse and non uniformly sampled. Under what conditions would perfect reconstruction be possible. This project aims to simulate a few toy experiments to answer that question. A bare bones event simulator is also available here.</p>
 				You can follow the project <a href="https://github.com/ashishrao7/Neuromorphic-Sampling" target="_blank">here</a><br><br>
 		<header class="major">
-		<h3>Motion Contrast 3D</h3>
+		<h3>MC3D: Motion Contrast 3D</h3>
 		</header>
 			<p><span class="image left"><img src="assets/images/research_interests/event_based_vision/Hand_MC3D.png" alt=""></span> Line Scanning methods have been around since years to perform 3-D reconstructions of objects. Would doing this with an event camera make the process any better? This research was done by the computational photography group at the Northwestern University. The <a href="https://compphotolab.northwestern.edu/wordpress/wp-content/uploads/2015/04/dvs_031.pdf" target="_blank">paper</a> has been implemented in the repository for this project.</p>
 			You can follow the project <a href="https://github.com/ashishrao7/motion_contrast_3D" target="_blank">here</a>
+		<header class="major">
+		<h3>EMVS: Event Based Multi View Stereo</h3>
+		</header>
+			<p><span class="image right"><img src="assets/images/research_interests/event_based_vision/Hand_MC3D.png" alt=""></span> Backprojection based methods have been around for 3-D reconstruction. Turns out event cameras work very well for this problem giving semi-dense 3-D reconstructions. An attempt to implement the EMVS paper was made here. The <a href="https://compphotolab.northwestern.edu/wordpress/wp-content/uploads/2015/04/dvs_031.pdf" target="_blank">paper</a> has been implemented in the repository for this project.</p>
+			You can follow the project <a href="https://github.com/ashishrao7/motion_contrast_3D" target="_blank">here</a>	
 </div>
 
 <div id='DronesMD' style="display:none;">
     <b>ARTICLE 3</b> This is information about Awards
+		Solar Plane
+		robotic crab
+		DBF
+		Quadrotors
+		Thrust Rig
 </div>
 
 <div id='MachineLearningMD' style="display:none;">
-    <b>ARTICLE 4</b> This is information about my skills
+    <b>ARTICLE 4</b> Solar panel temperature prediction, spiking neuron, corner detection, stock pricing?
 </div>
 
 
