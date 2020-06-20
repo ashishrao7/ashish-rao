@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+description: Look at me I'm cool
 image: assets/images/about_me.jpeg
 nav-menu: true
 ---
@@ -60,22 +61,58 @@ nav-menu: true
 
 <div id='PublicationDetailsMD' style="display:none;">
     <header class="major">
-		<h3>Journals</h3>
+		<h3>Journals, Magazines and Letters</h3>
 		</header>
 			<ol>
+				<li> <b> A. R. Mangalore </b>, C.S. Seelamantula, and C.S. Thakur, ”Neuromorphic Fringe Projection Profilometry”, (2020) - Draft ready for submission to SP Letters.</li>
 				<li> Vijaykumar, R., Rudramoorthy, R., and <b> Rao Mangalore, A. (2017).</b> Prediction of solar PV panel temperature using mathematical models and artificial neural networks. Journal of Computational and Theoretical Nanoscience 14, 4986–4997.</li>
 			</ol>
-		<header class="major">
-		<h3>Conferences</h3>
-		</header>
 </div>
 
 <div id='AwardsDetailsMD' style="display:none;">
-    <b>ARTICLE 3</b> This is information about Awards
+       	<ul> 
+				<li><b>Placed 3rd in the Graduating Batch of EEE, RVCE</b><br>
+				Placed 3rd on the basis of 4 year CGPA at the end of the course among the graduating batch of 63 students</li>
+				<li><b>Certificate of Merit, Central Board of Secondary Education</b><br>
+				Awarded the certificate of Merit for scoring a perfect CGPA of 10 in the nationwide Class X Board Exams</li>
+				<li><b>National Talent Search Examination Scholar - Karnataka State</b><br>
+				Ranked 22nd in Karnataka state (India) in stage 1 of the national level scholarship program conducted by NCERT at the Secondary school level to identify and recognize students with high intellect and academic talent.</li>
+			</ul>
 </div>
 
 <div id='SkillsDetailsMD' style="display:none;">
-    <b>ARTICLE 4</b> This is information about my skills
+		<table style="width:100%">
+					<tr>
+						<td style="text-align:center"><img src="assets/images/about_me/courses/cce_logo.jpg" alt=""  style="width:100px;height:100px;"></td>
+						<td style="vertical-align:middle"><b>Reinforcement Learning</b><br>
+						<i>CCE, IISc, Bengaluru, India</i></td> 
+					</tr>
+					<tr>
+						<td style="text-align:center"><img src="assets/images/about_me/courses/coursera_logo.png" alt=""  style="width:200px;height:52px;"></td>
+						<td style="vertical-align:middle"><b>Deep Learning Specialization</b><br>
+						<i>Coursera</i></td> 
+					</tr>
+					<tr>
+						<td style="text-align:center"><img src="assets/images/about_me/courses/udacity_logo.svg" alt=""  style="width:100px;height:115px;"></td>
+						<td style="vertical-align:middle"><b>Machine Learning Engineer Nanodegree</b><br>
+						<i>Udacity</i></td> 
+					</tr>
+					<tr>
+						<td style="text-align:center"><img src="assets/images/about_me/courses/coursera_logo.png" alt=""  style="width:200px;height:52px;"></td>
+						<td style="vertical-align:middle"><b>Build a Modern Computer from First Principles:From Nand to Tetris </b><br>
+						<i>Hebrew University of Jerusalem, Coursera</i></td> 
+					</tr>
+					<tr>
+						<td style="text-align:center"><img src="assets/images/about_me/courses/edx_logo.png" alt=""  style="width:100px;height:41px;"></td>
+						<td style="vertical-align:middle"><b>edX Honor Code Certificate for Circuits and Electronics </b><br>
+						<i>Edx:MITx</i></td> 
+					</tr>
+					<tr>
+						<td style="text-align:center"><img src="assets/images/about_me/courses/edx_logo.png" alt=""  style="width:100px;height:41px;"></td>
+						<td style="vertical-align:middle"><b>edX Honor Code Certificate for Electricity and Magnetism </b><br>
+						<i>Edx:MITx</i></td> 
+					</tr>
+				</table>
 </div>
 
 <div id='CertificatesAndExamsMD' style="display:none;">
@@ -146,11 +183,11 @@ nav-menu: true
 <div id="AboutContentsDiv"></div>
 <script>document.getElementById('AboutContentsDiv').innerHTML=document.getElementById('EducationDetailsMD').innerHTML;</script>
 
-<p><center><a href="assets/files/Ashish_TUM_CV.pdf" class="button icon fa-download" target="_blank">Download CV</a></center></p>
+<p><center><a href="assets/files/CV_Ashish_Rao_Mangalore.pdf" class="button icon fa-download" target="_blank">Download CV</a></center></p>
 
 <div id="Languages">
 <header class="major">
-<h1>Languages I Know...</h1>
+<h1>Languages</h1>
 </header>
 	<table style="width:100%">
 		<tr>
@@ -160,7 +197,7 @@ nav-menu: true
 			<td style="text-align:center;vertical-align:middle"><img src="assets/images/about_me/languages/kannada.png" alt=""  style="width:100px;height:50px;"></td>  
 		</tr>
 		<tr>
-			<td style="text-align:center"><h2><font color="Red">Intermediate</font></h2>></td>
+			<td style="text-align:center"><h2><font color="Red">Intermediate</font></h2></td>
 			<td style="text-align:center;vertical-align:middle"><img src="assets/images/about_me/languages/sanskrit.png" alt=""  style="width:150px;height:57px;"></td> 
 		</tr>
 		<tr>

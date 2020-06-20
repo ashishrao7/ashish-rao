@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name Ashish'
+landing-title: 'Hi, Namaste, Namaskara, Hallo!'
 description: null
 image: null
-author: null
-show_tile: True
+author: Ashish Rao Mangalore
+show_tile: False
 font:
 ---
 

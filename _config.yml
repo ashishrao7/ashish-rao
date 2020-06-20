@@ -1,15 +1,15 @@
 # site settings
-title: Ashish Rao 
-subtitle: The Man, The Legend... 
+title: The Life and Musings of
+subtitle: Ashish Rao Mangalore
 email: ashishrao.mangalore@tum.de
-description: Hi there! Life is varying shades of gray. Fortunately (or Unfortunately), this site is in black and white. Feel free to get in touch with me if you feel like having a conversation. 
-baseurl: "/ashish-rao" # the subpath of your site, e.g. /blog
+description: Should be Interesting to know more about this great man
+baseurl: "/ashish-rao-m" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Ashish Rao Mangalore
 street_address: 
-city: Bengaluru
-state: Karnataka,
-country: India
+city: München
+state: Bavaria,
+country: Germany
 phone: <i> Available on Request </i>
 
 # homepage tiles
@@ -26,7 +26,7 @@ instagram_url:
 linkedin_url: https://www.linkedin.com/in/ashish-rao-mangalore-4a888a26/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/MangaloreAshish
 
 # build settings
 markdown: kramdown
