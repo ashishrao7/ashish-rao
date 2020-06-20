@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Research Interests and Projects
 description: Science. is. Amaze!
 image: assets/images/research_banner.jpg
@@ -11,6 +11,7 @@ nav-menu: true
 
 <!-- One -->
 <section id="one">
+		<div class="inner">
 
 <ul class="actions fit">
 	<li><a href="#" class="button  fit" id='Education'    onclick="document.getElementById('ProjectContentsDiv').innerHTML=document.getElementById('EventBasedVisionMD').innerHTML;">Event Based Vision</a></li>
@@ -99,6 +100,6 @@ nav-menu: true
 <!-- Display Div-->
 <div id="ProjectContentsDiv"></div>
 <script>document.getElementById('ProjectContentsDiv').innerHTML=document.getElementById('EventBasedVisionMD').innerHTML;</script>
-
+</div>
 </section>
 </div>
