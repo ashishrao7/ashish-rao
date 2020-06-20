@@ -1,6 +1,6 @@
 # site settings
-title: The Life and Musings of
-subtitle: Ashish Rao Mangalore
+title: Ashish Rao Mangalore
+subtitle: The Life and Musings
 email: ashishrao.mangalore@tum.de
 description: Should be Interesting to know more about this great man
 baseurl: "/ashish-rao-m" # the subpath of your site, e.g. /blog
@@ -14,15 +14,15 @@ phone: <i> Available on Request </i>
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 7
+tiles-count: 8
 
 # social settings
 500px_url:
 facebook_url: https://www.facebook.com/ashish.rao.m
 github_url: https://github.com/ashishrao7
 gitlab_url: https://gitlab.com/rao_art
-googleplus_url: 
-instagram_url: 
+googleplus_url:
+instagram_url:
 linkedin_url: https://www.linkedin.com/in/ashish-rao-mangalore-4a888a26/
 pinterest_url:
 slack_url:

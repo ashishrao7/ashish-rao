@@ -2,7 +2,7 @@
 layout: post
 title: Research Interests and Projects
 description: Science. is. Amaze!
-image:
+image: assets/images/research_banner.jpg
 nav-menu: true
 ---
 

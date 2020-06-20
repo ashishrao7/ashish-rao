@@ -8,5 +8,3 @@ author: Ashish Rao Mangalore
 show_tile: False
 font:
 ---
-
-Gotta Impress Em All!

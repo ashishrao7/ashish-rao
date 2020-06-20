@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-description: Look at me I'm cool
+description: First Let's do some advertising
 image: assets/images/about_me.jpeg
 nav-menu: true
 ---
@@ -83,34 +83,24 @@ nav-menu: true
 <div id='SkillsDetailsMD' style="display:none;">
 		<table style="width:100%">
 					<tr>
-						<td style="text-align:center"><img src="assets/images/about_me/courses/cce_logo.jpg" alt=""  style="width:100px;height:100px;"></td>
-						<td style="vertical-align:middle"><b>Reinforcement Learning</b><br>
-						<i>CCE, IISc, Bengaluru, India</i></td> 
+						<td style="text-align:center"><img src="assets/images/about_me/skills/python.png" alt=""  style="width:220px;height:80px;"></td>
+						<td style="text-align:center"><img src="assets/images/about_me/skills/cpp_logo.png" alt=""  style="width:100px;height:110px;"></td>
+						<td style="text-align:center"><img src="assets/images/about_me/skills/latex_logo.png" alt=""  style="width:200px;height:80px;"></td>
 					</tr>
 					<tr>
-						<td style="text-align:center"><img src="assets/images/about_me/courses/coursera_logo.png" alt=""  style="width:200px;height:52px;"></td>
-						<td style="vertical-align:middle"><b>Deep Learning Specialization</b><br>
-						<i>Coursera</i></td> 
+						<td style="text-align:center"><img src="assets/images/about_me/skills/Matlab_Logo.png" alt=""  style="width:150px;height:130px;"></td>
+						<td style="text-align:center"><img src="assets/images/about_me/skills/Git-Logo-2Color.png" alt=""  style="width:200px;height:80px;"></td>
+						<td style="text-align:center"><img src="assets/images/about_me/skills/pytorch-logo-dark.png" alt=""  style="width:250px;height:50px;"></td>
 					</tr>
 					<tr>
-						<td style="text-align:center"><img src="assets/images/about_me/courses/udacity_logo.svg" alt=""  style="width:100px;height:115px;"></td>
-						<td style="vertical-align:middle"><b>Machine Learning Engineer Nanodegree</b><br>
-						<i>Udacity</i></td> 
+						<td style="text-align:center"><img src="assets/images/about_me/skills/arduino_logo.jpg" alt=""  style="width:250px;height:110px;"></td>
+						<td style="text-align:center"><img src="assets/images/about_me/skills/ROS_logo.png" alt=""  style="width:200px;height:60px;"></td>
+						<td style="text-align:center"><img src="assets/images/about_me/skills/Eagle_Logo.jpg" alt=""  style="width:150px;height:110px;"></td>
 					</tr>
 					<tr>
-						<td style="text-align:center"><img src="assets/images/about_me/courses/coursera_logo.png" alt=""  style="width:200px;height:52px;"></td>
-						<td style="vertical-align:middle"><b>Build a Modern Computer from First Principles:From Nand to Tetris </b><br>
-						<i>Hebrew University of Jerusalem, Coursera</i></td> 
-					</tr>
-					<tr>
-						<td style="text-align:center"><img src="assets/images/about_me/courses/edx_logo.png" alt=""  style="width:100px;height:41px;"></td>
-						<td style="vertical-align:middle"><b>edX Honor Code Certificate for Circuits and Electronics </b><br>
-						<i>Edx:MITx</i></td> 
-					</tr>
-					<tr>
-						<td style="text-align:center"><img src="assets/images/about_me/courses/edx_logo.png" alt=""  style="width:100px;height:41px;"></td>
-						<td style="vertical-align:middle"><b>edX Honor Code Certificate for Electricity and Magnetism </b><br>
-						<i>Edx:MITx</i></td> 
+						<td style="text-align:center"><img src="assets/images/about_me/skills/dummy_field" alt=""  style="width:250px;height:110px;"></td>
+						<td style="text-align:center"><img src="assets/images/about_me/skills/fusion360_logo.png" alt=""  style="width:300px;height:150px;"></td>
+						<td style="text-align:center"><img src="assets/images/about_me/skills/dummy_field" alt=""  style="width:150px;height:110px;"></td>
 					</tr>
 				</table>
 </div>
