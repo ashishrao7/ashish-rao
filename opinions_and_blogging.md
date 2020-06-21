@@ -2,7 +2,7 @@
 title: Opinions and Blogging
 layout: landing
 description: Because everyone has one these days... 
-image: assets/images/pic07.jpg
+image: assets/images/opinion_banner.jpg
 nav-menu: true
 ---
 

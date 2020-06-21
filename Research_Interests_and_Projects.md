@@ -100,6 +100,7 @@ nav-menu: true
 <!-- Display Div-->
 <div id="ProjectContentsDiv"></div>
 <script>document.getElementById('ProjectContentsDiv').innerHTML=document.getElementById('EventBasedVisionMD').innerHTML;</script>
+
 </div>
 </section>
 </div>

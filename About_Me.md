@@ -73,7 +73,7 @@ nav-menu: true
        	<ul> 
 				<li><b>Placed 3rd in the Graduating Batch of EEE, RVCE</b><br>
 				Placed 3rd on the basis of 4 year CGPA at the end of the course among the graduating batch of 63 students</li>
-				<li><b>Certificate of Merit, Central Board of Secondary Education</b><br>
+				<li><b>Certificate of Merit, Central Board of Secondary Education, India</b><br>
 				Awarded the certificate of Merit for scoring a perfect CGPA of 10 in the nationwide Class X Board Exams</li>
 				<li><b>National Talent Search Examination Scholar - Karnataka State</b><br>
 				Ranked 22nd in Karnataka state (India) in stage 1 of the national level scholarship program conducted by NCERT at the Secondary school level to identify and recognize students with high intellect and academic talent.</li>
@@ -118,7 +118,7 @@ nav-menu: true
 						<i>CCE, IISc, Bengaluru, India</i></td> 
 					</tr>
 					<tr>
-						<td style="text-align:center"><img src="assets/images/about_me/courses/coursera_logo.png" alt=""  style="width:200px;height:52px;"></td>
+						<td style="text-align:center"><img src="assets/images/about_me/courses/coursera_logo.png" alt=""  style="width:300px;height:52px;"></td>
 						<td style="vertical-align:middle"><b>Deep Learning Specialization</b><br>
 						<i>Coursera</i></td> 
 					</tr>
@@ -128,7 +128,7 @@ nav-menu: true
 						<i>Udacity</i></td> 
 					</tr>
 					<tr>
-						<td style="text-align:center"><img src="assets/images/about_me/courses/coursera_logo.png" alt=""  style="width:200px;height:52px;"></td>
+						<td style="text-align:center"><img src="assets/images/about_me/courses/coursera_logo.png" alt=""  style="width:300px;height:52px;"></td>
 						<td style="vertical-align:middle"><b>Build a Modern Computer from First Principles:From Nand to Tetris </b><br>
 						<i>Hebrew University of Jerusalem, Coursera</i></td> 
 					</tr>
