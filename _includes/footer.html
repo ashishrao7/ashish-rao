@@ -1,7 +1,53 @@
 <!-- Contact -->
 <section id="contact">
-	<div class="inner">
+	<div class="inner">	
 		<section>
+			<div class = "inner">
+				<div class="row">
+				<div class="6u 12u$(small)">
+				<section>
+					<div class="contact-method">
+						<span class="icon alt fa-envelope"></span>
+						<h3>Email</h3>
+						<a href="#">{{ site.email }}</a>
+					</div>
+				</section>
+			</div>
+				<div class="6u 12u$(small)">
+				<section>
+					<div class="contact-method">
+						<span class="icon alt fa-phone"></span>
+						<h3>Phone</h3>
+						<span>{{ site.phone }}</span>
+					</div>
+				</section>
+			</div>
+			<div class="6u 12u$(small)">
+				<section>
+					<div class="contact-method">
+						<span class="icon alt fa-home"></span>
+						<h3>Address</h3>
+						<span>
+						{% if site.street_address %}
+								{{ site.street_address }}<br />
+						{% endif %}
+						{% if site.city %}
+								{{ site.city }},
+						{% endif %}
+						{% if site.state %}
+								{{ site.state }} 
+						{% endif %}
+						{% if site.zip_code %}
+								{{ site.zip_code }}<br />
+						{% endif %}
+						{% if site.country %}
+								{{ site.country }}
+						{% endif %}
+						</span>
+					</div>
+				</section>
+			</div>
+			</div>
 			<form action="https://formspree.io/{{ site.email }}" method="POST">
 				<div class="row uniform">
 					<div class="6u 12u$(xsmall)">
@@ -58,45 +104,7 @@
 			</form>
 		</section>
 
-		<!-- ARRRANGE THIS PROPERLY
-		<section>
-				<div class="contact-method">
-					<span class="icon alt fa-envelope"></span>
-					<h3>Email</h3>
-					<a href="#">{{ site.email }}</a>
-				</div>
-			</section>
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-phone"></span>
-					<h3>Phone</h3>
-					<span>{{ site.phone }}</span>
-				</div>
-			</section>
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-home"></span>
-					<h3>Address</h3>
-					<span>
-					{% if site.street_address %}
-					    {{ site.street_address }}<br />
-					{% endif %}
-					{% if site.city %}
-					    {{ site.city }},
-					{% endif %}
-					{% if site.state %}
-					    {{ site.state }} 
-					{% endif %}
-					{% if site.zip_code %}
-					    {{ site.zip_code }}<br />
-					{% endif %}
-					{% if site.country %}
-					    {{ site.country }}
-					{% endif %}
-					</span>
-				</div>
-		</section>
-		-->
+
 		
 		<section class="split">
 			<section>
