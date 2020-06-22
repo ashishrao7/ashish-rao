@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Report Repository
-description: Reports you can refer to 
+title: Reports and Repos
+description: One page to find it all 
 image: assets/images/report_repo_banner.jpg
 nav-menu: true
 show_tile: true
