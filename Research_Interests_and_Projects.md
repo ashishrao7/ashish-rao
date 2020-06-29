@@ -24,12 +24,6 @@ nav-menu: true
 <div id='EventBasedVisionMD' style="display:none;">
 		<p><span class="image left"><img src="assets/images/research_interests/event_based_vision/DVS_output.png" alt=""></span><span class="image right"><img src="assets/images/research_interests/event_based_vision/davis346redcolor.png" alt=""></span>Forget Computer Vision as you know it and get ready to  meet Event Cameras. Currently, a lot of new paradigms for visual sensing are being explored  and event cameras happen to be one of them. Numerous application have been gaining traction over the years. You can read more about the cutting edge <a href="https://github.com/uzh-rpg/event-based_vision_resources">here</a>. During my time at the Indian Insitute of Science as a project assistant, I'd worked on some interesting problems in Event based vision. Below is the work I have done during that period.</p>
 		<header class="major">
-		<h3>Neuromorphic Fringe Projection Profilometry</h3>
-		</header>
-				<p><span class="image left"><img src="assets/images/research_interests/event_based_vision/wrapped_and_unwrapped_POE3D.png" alt=""></span>
-				Fringe Pattern Profilometry has been a popular problem in traditional computer vision. Can it be solved using data from only an event sensor. This project aims to explore this question.</p>
-		 		You can follow the project <a href="https://github.com/ashishrao7/NFPP" target="_blank">here</a>
-		<header class="major">
 		<h3 >Neuromorphic Sampling</h3>
 		</header>
 				<p><span class="image right"><img src="assets/images/research_interests/event_based_vision/final_frame_delta_mod.png" alt=""></span> Data from a neuromorphic vision sensor is sparse and non uniformly sampled. Under what conditions would perfect reconstruction be possible. This project aims to simulate a few toy experiments to answer that question. A bare bones event simulator is also available here.</p>
@@ -92,7 +86,7 @@ nav-menu: true
 		<header class="major">
 		<h3>Implementations of Proximal Operators and ISTA in ELSA: A Tomographic Reconstruction Framework</h3>
 		</header>
-			<p><span class="image right"><img src="assets/images/research_interests/programming/tomography.png" alt=""></span> ELSA is a library developed at the Computational Imaging and Inverse Problems group at the Department of Informatics, Technische Universität München. My contribution was the design, implementation and testing of Proximity Operators, Soft-thresholding, LASSO problem and the ISTA solver<br><br>
+			<p><span class="image right"><img src="assets/images/research_interests/programming/tomography.png" alt=""></span> ELSA is a C++ library developed at the Computational Imaging and Inverse Problems group at the Department of Informatics, Technische Universität München. My contribution was the design, implementation and testing of Proximity Operators, Soft-thresholding, LASSO problem and the ISTA solver.<br><br>
 			You can follow the project <a href="https://gitlab.lrz.de/IP/elsa" target="_blank">here</a></p>
 </div>
 
