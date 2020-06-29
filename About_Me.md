@@ -76,6 +76,8 @@ nav-menu: true
 				Awarded the certificate of Merit for scoring a perfect CGPA of 10 in the nationwide Class X Board Exams</li>
 				<li><b>National Talent Search Examination Scholar - Karnataka State</b><br>
 				Ranked 22nd in Karnataka state (India) in stage 1 of the national level scholarship program conducted by NCERT at the Secondary school level to identify and recognize students with high intellect and academic talent.</li>
+				<li><b>National Talent Search Examination Scholar - Karnataka State</b><br>
+				Ranked 22nd in Karnataka state (India) in stage 1 of the national level scholarship program conducted by NCERT at the Secondary school level to identify and recognize students with high intellect and academic talent.</li>
 			</ul>
 </div>
 
