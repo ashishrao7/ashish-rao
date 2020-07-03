@@ -74,11 +74,19 @@ nav-menu: true
 
 <div id='MachineLearningMD' style="display:none;">
 		<header class="major">
+		<h3>VibeLight - Connect with your Tribe by knowing their Vibe</h3>
+		</header>
+			<p><span class="image right"><img src="assets/images/research_interests/Neuroscience_and_ml/VibeLight.png" alt=""></span> We <a href="https://www.br41n.io/Summer-School-2020#projects" target="_blank">hacked</a> together a project that uses EEG signals from the Unicorn EEG recorder to record average mood of a user group using the caps to remotely change the light color of a remote speaker. Our solution was to compensate for the non-verbal cues of an offline setting that a speaker on online video calls misses out on by controlling the color of a smart light in their home to get average mood of their audience. The best part of the project was that all of us in the team worked virtually and realized the project!<br><br>
+			<img src="assets/images/research_interests/Neuroscience_and_ml/ieee_brain_br4in.png" alt=""  style="width:150px;"><br>
+			You can follow the project <a href="https://github.com/Matthijspals/BCI-Friendship-Lamps" target="_blank">here</a> and the slides <a href="https://docs.google.com/presentation/d/1C90YwG90-7IYUWISt83XptISrPLRA2slXdpYERHgbLk/edit?usp=sharing" target="_blank">here</a></p>
+		<header class="major">
 		<h3>Spiking Neurons: LIF and Izhikevich</h3>
 		</header>
-			<p><span class="image right"><img src="assets/images/research_interests/Neuroscience_and_ml/Izhikevich_Images_Chattering.png" alt=""></span> Spiking Neural Networks - and what's the smallest unit of one, a Spiking Neuron. Implementation of the Leaky Integrate and Fire Neuron and the Izhikevich Neuron are available in this repo.<br><br>
+			<p><span class="image left"><img src="assets/images/research_interests/Neuroscience_and_ml/Izhikevich_Images_Chattering.png" alt=""></span> Spiking Neural Networks - and what's the smallest unit of one, a Spiking Neuron. Implementation of the Leaky Integrate and Fire Neuron and the Izhikevich Neuron are available in this repo.<br><br>
 			You can follow the project <a href="https://gitlab.com/rao_art/SNN" target="_blank">here</a></p>
-
+		<header class="major">
+		<h3>Next Article Coming Soon</h3>
+		</header>
     <b>ARTICLE 4</b> Solar panel temperature prediction, spiking neuron, corner detection, stock pricing?
 </div>
 
