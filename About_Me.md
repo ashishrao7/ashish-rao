@@ -71,7 +71,7 @@ nav-menu: true
 <div id='AwardsDetailsMD' style="display:none;">
        	<ul> 
 				<li><b>  1st IEEE Brain BR41N.IO Prize at BR41N.IO Brain-Computer Interface Designers’ Hackthon 2020</b><br>
-				Awarded 1st Place in the Programming Projects cateogory of the hackathon for our solution VibeLight. </li>
+				Awarded 1st Place in the Programming Projects category of the hackathon for our solution VibeLight. </li>
 				<li><b>Placed 3rd in the Graduating Batch of EEE, RVCE</b><br>
 				Placed 3rd on the basis of 4 year CGPA at the end of the course among the graduating batch of 63 students</li>
 				<li><b>Certificate of Merit, Central Board of Secondary Education, India</b><br>
