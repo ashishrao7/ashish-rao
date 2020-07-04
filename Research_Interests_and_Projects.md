@@ -16,7 +16,7 @@ nav-menu: true
 <ul class="actions fit">
 	<li><a href="#" class="button  fit" id='Education'    onclick="document.getElementById('ProjectContentsDiv').innerHTML=document.getElementById('EventBasedVisionMD').innerHTML;">Event Based Vision</a></li>
 	<li><a href="#" class="button  fit" id='Drones' onclick="document.getElementById('ProjectContentsDiv').innerHTML=document.getElementById('DronesMD').innerHTML;">UAVs and Drones</a></li>
-	<li><a href="#" class="button  fit" id='MachineLearning' onclick="document.getElementById('ProjectContentsDiv').innerHTML=document.getElementById('MachineLearningMD').innerHTML;">Neuroscience and ML</a></li>
+	<li><a href="#" class="button  fit" id='Neuro' onclick="document.getElementById('ProjectContentsDiv').innerHTML=document.getElementById('NeuroMD').innerHTML;"><p style="font-size:7px;">Neuroscience & Neuroengineering </p></a></li>
 	<li><a href="#" class="button  fit" id='Programming'  onclick="document.getElementById('ProjectContentsDiv').innerHTML=document.getElementById('LibraryContribsMD').innerHTML;">Library Contributions</a></li>
 </ul>
 
@@ -72,7 +72,7 @@ nav-menu: true
 
 </div>
 
-<div id='MachineLearningMD' style="display:none;">
+<div id='NeuroMD' style="display:none;">
 		<header class="major">
 		<h3>VibeLight - Connect with your Tribe by knowing their Vibe</h3>
 		</header>
