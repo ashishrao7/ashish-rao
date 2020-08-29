@@ -64,12 +64,15 @@ nav-menu: true
 		<h3>Journals, Magazines and Letters</h3>
 		</header>
 			<ol>
-				<li> Vijaykumar, R., Rudramoorthy, R., and <b> Rao Mangalore, A. (2017).</b> Prediction of solar PV panel temperature using mathematical models and artificial neural networks. Journal of Computational and Theoretical Nanoscience 14, 4986–4997.</li>
+				<li> A. B. Harish, G. M. Deepak, <b> A. Rao Mangalore </b>, and C.S. Seelamantula,“Depth Estimation using the Riesz Transform”, To be submitted to <i> IEEE Transactions on Computational Imaging </i>. </li>
+				<li> <b> A. R. Mangalore </b>, C.S. Seelamantula, and C.S. Thakur, ”Neuromorphic Fringe Projection Profilometry”,<i> Signal Processing Letters</i>, September, 2020.</li>
+				<li> Vijaykumar, R., Rudramoorthy, R., and <b> Rao Mangalore, A.</b> "Prediction of solar PV panel temperature using mathematical models and artificial neural networks.", <i> Journal of Computational and Theoretical Nanoscience</i>, 14, 4986–4997, 2017.</li>
 			</ol>
 </div>
 
 <div id='AwardsDetailsMD' style="display:none;">
        	<ul> 
+				<li><b>Invited Speaker SPCOM 2020 </b><br> International Conference on Signal Processing and Communications Talk titled “Object Scanning and the Dynamic Vision Sensor”</li>
 				<li><b>  1st IEEE Brain BR41N.IO Prize at BR41N.IO Brain-Computer Interface Designers’ Hackthon 2020</b><br>
 				Awarded 1st Place in the Programming Projects category of the hackathon for our solution VibeLight. </li>
 				<li><b>Placed 3rd in the Graduating Batch of EEE, RVCE</b><br>

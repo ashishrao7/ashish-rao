@@ -24,6 +24,12 @@ nav-menu: true
 <div id='EventBasedVisionMD' style="display:none;">
 		<p><span class="image left"><img src="assets/images/research_interests/event_based_vision/DVS_output.png" alt=""></span><span class="image right"><img src="assets/images/research_interests/event_based_vision/davis346redcolor.png" alt=""></span>Forget Computer Vision as you know it and get ready to  meet Event Cameras. Currently, a lot of new paradigms for visual sensing are being explored  and event cameras happen to be one of them. Numerous application have been gaining traction over the years. You can read more about the cutting edge <a href="https://github.com/uzh-rpg/event-based_vision_resources">here</a>. During my time at the Indian Insitute of Science as a project assistant, I'd worked on some interesting problems in Event based vision. Below is the work I have done during that period.</p>
 		<header class="major">
+		<h3>Neuromorphic Fringe Projection Profilometry</h3>
+		</header>
+				<p><span class="image left"><img src="assets/images/research_interests/event_based_vision/wrapped_and_unwrapped_POE3D.png" alt=""></span>
+				Fringe Pattern Profilometry has been a popular problem in traditional computer vision. Can it be solved using data from only an event sensor. This project aims to explore this question.</p>
+		 		You can follow the project <a href="https://github.com/ashishrao7/NFPP" target="_blank">here</a>
+		<header class="major">
 		<h3 >Neuromorphic Sampling</h3>
 		</header>
 				<p><span class="image right"><img src="assets/images/research_interests/event_based_vision/final_frame_delta_mod.png" alt=""></span> Data from a neuromorphic vision sensor is sparse and non uniformly sampled. Under what conditions would perfect reconstruction be possible. This project aims to simulate a few toy experiments to answer that question. A bare bones event simulator is also available here.</p>
@@ -74,6 +80,11 @@ nav-menu: true
 
 <div id='NeuroMD' style="display:none;">
 		<header class="major">
+		<h3>Behavioral Regressor For a Larval Zebrafish</h3>
+		</header>
+			<p><span class="image left"><img src="assets/images/research_interests/Neuroscience_and_ml/ROI_centers_corr_seg.jpg" alt="" style="width:200px"></span> The project was to build a behavioral regressor for a larval zebrafish. After the neuronal locations were extracted based on correlation segmentation, the tail behavior regressor was built using neuroimaging data.<br><br>
+			You can follow the project <a href="https://github.com/ashishrao7/LSMLSDA/blob/master/Module_3/Module%203_High-dimensional%20neural%20data%20processing%20Project%20question.ipynb" target="_blank">here</a></p><br><br><br><br>		
+		<header class="major">
 		<h3>VibeLight - Connect with your Tribe by knowing their Vibe</h3>
 		</header>
 			<p><span class="image right"><img src="assets/images/research_interests/Neuroscience_and_ml/VibeLight.png" alt=""></span> We <a href="https://www.br41n.io/Summer-School-2020#projects" target="_blank">hacked</a> together a project that uses EEG signals from the Unicorn EEG recorder to record average mood of a user group using the caps to remotely change the light color of a remote speaker. Our solution was to compensate for the non-verbal cues of an offline setting that a speaker on online video calls misses out on by controlling the color of a smart light in their home to get average mood of their audience. The best part of the project was that all of us in the team worked virtually and realized the project!<br><br>
@@ -85,9 +96,12 @@ nav-menu: true
 			<p><span class="image left"><img src="assets/images/research_interests/Neuroscience_and_ml/Izhikevich_Images_Chattering.png" alt=""></span> Spiking Neural Networks - and what's the smallest unit of one, a Spiking Neuron. Implementation of the Leaky Integrate and Fire Neuron and the Izhikevich Neuron are available in this repo.<br><br>
 			You can follow the project <a href="https://gitlab.com/rao_art/SNN" target="_blank">here</a></p>
 		<header class="major">
-		<h3>Next Article Coming Soon</h3>
+		<h3>Next Article Coming Soon....</h3>
 		</header>
+		<!--
     <b>ARTICLE 4</b> Solar panel temperature prediction, spiking neuron, corner detection, stock pricing?
+		-->
+		<br>
 </div>
 
 <div id='LibraryContribsMD' style="display:none;">
