@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Poems  
-description: Cause writing is the shizz!
+description: 
 image: assets/images/poem_banner.jpg
 nav-menu: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-description: First Let's do some advertising
+description: Education and Skills
 image: assets/images/about_me.jpeg
 nav-menu: true
 ---
@@ -72,6 +72,7 @@ nav-menu: true
 
 <div id='AwardsDetailsMD' style="display:none;">
        	<ul> 
+				<li><b>Deutschland Stipendium </b><br> Merit based Scholarship for talented and high-achieving students at public and state recognised universities in Germany</li>
 				<li><b>Invited Speaker SPCOM 2020 </b><br> International Conference on Signal Processing and Communications Talk titled “Object Scanning and the Dynamic Vision Sensor”</li>
 				<li><b>  1st IEEE Brain BR41N.IO Prize at BR41N.IO Brain-Computer Interface Designers’ Hackthon 2020</b><br>
 				Awarded 1st Place in the Programming Projects category of the hackathon for our solution VibeLight. </li>

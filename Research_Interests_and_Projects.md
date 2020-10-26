@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Interests and Projects
-description: Science. is. Amaze!
+description: My Personal Portfolio
 image: assets/images/research_banner.jpg
 nav-menu: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: Opinions and Blogging
 layout: landing
-description: Because everyone has one these days... 
+description: For things more than 280 characters
 image: assets/images/opinion_banner.jpg
 nav-menu: true
 ---
